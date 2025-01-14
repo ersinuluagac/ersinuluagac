@@ -6,7 +6,7 @@
 - 🔧 Yetenekler: HTML, CSS, Bootstrap, JavaScript, SQL, C#, ASP.NET Core MVC
 - 🛠️ İlgi Alanlarım: Backend
 - 🎓 Patika.dev: Başlangıç Seviye Frontend Web Development | [Eğitim](https://github.com/uluagac/Patika) - Frontend temelleri
-- 🎓 BilgeAdam Akademi: Full Stack .NET Core | [Eğitim](https://github.com/uluagac/BilgeAdamAkademi) - C# temelleri ve katmanlı mimari
+- 🎓 BilgeAdam Akademi: Full Stack .NET Core | [Eğitim](https://github.com/uluagac/BilgeAdamAkademi) - C#, Onion Architecture, ASP.NET Core MVC
 - 🎓 BTK Akademi: ASP.NET Core MVC | [Eğitim](https://github.com/uluagac/BTKAkademi) - ASP.NET Core MVC
 
 ## Projelerim  
