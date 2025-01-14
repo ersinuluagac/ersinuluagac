@@ -14,5 +14,3 @@
 
 ## Bana Ulaşın  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/uluagacersin/)
-
-![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=uluagac&show_icons=true&theme=radical)
