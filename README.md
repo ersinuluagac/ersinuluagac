@@ -2,7 +2,10 @@
 - 🌱 İyi bir yazılım geliştiricisi olmak için kendimi her gün geliştiriyorum ve bundan büyük bir zevk alıyorum!
 
 ## Hakkımda    
-- 🔧 Yetenekler: HTML, CSS, Bootstrap, JavaScript, SQL, C#, ASP.NET Core MVC, RESTful API
+- 🔧 Yetenekler
+  - Backend: C#, ASP.NET Core, RESTful API
+  - Frontend: JavaScript, CSS, Bootstrap, HTML
+  - Database: MSSQLServer, PostgreSQL
 - 🛠️ İlgi Alanlarım: Backend
 - 🎓 Patika.dev: Başlangıç Seviye Frontend Web Development | [Asian Kitchen](https://github.com/uluagac/AsianKitchen) - Frontend temelleri
 - 🎓 BilgeAdam Akademi: Full Stack .NET Core | [Eğitim](https://github.com/uluagac/CSharpBasics) - C#, OOP, Onion Architecture, ASP.NET Core MVC, Entity Framework, Fluent Api
